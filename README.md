@@ -5,7 +5,7 @@ R코드를 실행하기위해서는 다음 4개의 csv 파일이 필요합니다
 2. bikeinfo_22_01.csv
 3. bikeinfo_22_02.csv
 4. bikeinfo_22_03.csv
-- csv파일 다운로드 링크
+- csv파일 다운로드 링크  
 https://drive.google.com/drive/folders/1hEv6aZZgyWbMr46LHoLF7emhefWwlhf9?usp=share_link
 
 
