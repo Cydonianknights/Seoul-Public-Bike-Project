@@ -18,6 +18,6 @@ This R code requires following 4 csv files:<br>
 https://drive.google.com/drive/folders/1hEv6aZZgyWbMr46LHoLF7emhefWwlhf9?usp=share_link
 
 
-- The Goal of the project: To estimate the repairment frequency and timing of public bike  
-- The expected benefit from this project: By estimating the reapir, the government may decide the period for examination and prevent the future damages to bike.  
-- The Methodology: Linear regression and Logistic refression
+The Goal of the project: To estimate the repairment frequency and timing of public bike  
+The Expected Benefit: By estimating the reapir, the government may decide the period for examination and prevent the future damages to bike.  
+The Methodology: Linear regression and Logistic refression
